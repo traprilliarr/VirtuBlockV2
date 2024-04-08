@@ -1,0 +1,32 @@
+{
+  "name": "launch",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/styled": "^11.11.0",
+    "@studio-freight/react-lenis": "^0.0.43",
+    "clsx": "^2.1.0",
+    "framer-motion": "^10.18.0",
+    "next": "^14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^5.0.1",
+    "react-player": "^2.15.1",
+    "swiper": "^11.0.7",
+    "usehooks-ts": "^2.9.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.3"
+  }
+}
